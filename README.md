@@ -1,7 +1,3 @@
-Voici la version avec les liens bruts et les tirets pour les bullet points :
-
----
-
 # 🚀 **Antoine DEHOUX - Projets et Démonstrations** 🚀
 
 👋 **Bienvenue dans ma page Projets et Stages !**
