@@ -22,7 +22,7 @@ Chaque projet représente une étape importante de mon parcours, avec des compé
 - Rôle : Full stack developer - Développement front-end et back-end, implémentation d'un algorithme de classement, et gestion de la qualité du code.
 
 - **Diaporama Skywise Fleet Performance - Airbus** :  
-  https://reseaueseo-my.sharepoint.com/:p:/g/personal/antoine_dehoux_reseau_eseo_fr/Ea9j0xGW_nJHu99iPGjaiEsBBzbyQS80fTDItYOSTcO_8A?e=cx3EvS
+  https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link
 
 ---
 
