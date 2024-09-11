@@ -18,9 +18,36 @@ Chaque projet représente une étape importante de mon parcours, avec des compé
 - Client : Alten, Airbus
 - Technologies : Java, React, AWS (S3, Lambda), Elasticsearch, Cucumber, Jenkins
 - Description :  
-  Développement d'une solution de maintenance d'avions permettant aux compagnies aériennes de suivre en temps réel les pannes et alertes. Ce projet comprenait la création d'une fonctionnalité de commentaires et d'un système de vote pour fiabiliser les feedbacks utilisateurs.
+
+    L’application Skywise Fleet Performance permet aux compagnies aériennes de suivre en temps réel les pannes et problèmes survenant à bord des avions durant les vols, 
+    de manière à anticiper les réparations nécessaires et absorber les retards qu’elles pourraient créer. 
+    
+    Mon projet comprenait la création d'une fonctionnalité de commentaires et d'un système de vote pour fiabiliser les feedbacks utilisateurs :
+    
+    Les systèmes d’alerte impliqués remontent parfois des fausses alertes récurrentes. 
+    Les équipes de développement ont donc implémenté une fonctionnalité qui permet aux utilisateurs de laisser des commentaires sur les alertes 
+    pour signaler s’il s’agit de faux positifs ou de vrais problèmes.
+    
+    Mais à ce jour rien ne permet aux clients de corroborer ou remettre en question les commentaires laissés par d’autres usagers. 
+    Par conséquent, les clients en question pourraient ne pas savoir quelle confiance accorder aux feedbacks laissés sur les alertes.
+
 - Rôle : Full stack developer - Développement front-end et back-end, implémentation d'un algorithme de classement, et gestion de la qualité du code.
 
+- Objectifs à atteindre :
+    L'objectif de ce stage est de mettre en place un système de vote via lequel les utilisateurs de Skywise Fleet Performance pourront corroborer
+    ou remettre en question les commentaires laissés par leurs pairs, de façon à indiquer la justesse de ces derniers. 
+    
+    Les objectifs incluent notamment : 
+    
+    - Étude architecturale  
+    
+    - Implémentation de la possibilité de voter sur des commentaires (en back end et en front end) 
+    
+    - Implémentation d’un algorithme de ranking visant à remonter vers le haut de la page les commentaires les plus populaires et à pénaliser les commentaires les plus controversés 
+    
+    - Mise en place d’une politique de test rigoureuse pour assurer la robustesse de la fonctionnalité,
+    - conformément aux exigences de qualité d’une application industrielle utilisée par plusieurs centaines de compagnies aériennes
+  
 - **Diaporama Skywise Fleet Performance - Airbus** :  
   https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link
 
