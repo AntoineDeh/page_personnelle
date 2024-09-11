@@ -48,49 +48,49 @@ Chaque projet représente une étape importante de mon parcours, avec des compé
     - Mise en place d’une politique de test rigoureuse pour assurer la robustesse de la fonctionnalité,
     - conformément aux exigences de qualité d’une application industrielle utilisée par plusieurs centaines de compagnies aériennes
 
--Moyens mis en œuvre :
+- Moyens mis en œuvre :
 
-- Méthodologie: Framework agile SAFe 
-
-- Technologies: Plateforme Cloud Amazon Web Services (AWS), Java, interface React
-
-Concernant l'organisation par rapport au nombre de personnes sur le projet :
-- Il y a d'abord le product owner, représentant client qui a déterminé les exigences spécifiques pour ce projet
-
-- Ingénieur designer UI/UX : Il est chargé de modifier l'IHM présente pour intégrer la nouvelle fonctionnalité,
-- cela impactera donc le code en React, le frontend
-
-- Architecte IT Indien : Il a été chargé de faire l'architecture complète de l'application Fleet Performance avant,
-- et notamment de la partie feedback, c'est sur cela que je me base pour ajouter le système de vote.
-
-- Deux développeurs, un front-end et l'autre back-end Indien : Ils ont entre autres été chargés de développer la fonctionnalité feedback
-
-- Mon Scrum Master : Il est chargé pour l'équipe de gérer le planning (entre autres)
-- pour l'application skywise Health Monitoring (SHM faisant partie de Fleet Performance)
-et 2 autres applications.
-
-Mais pour mon projet je suis maître de mon planning pour mon projet, que je dois lui montrer.
-
-- Le chef de projet : Il coordonne l'ensemble des équipes d'Alten pour Airbus.
-
-- Mon équipe, Team 42, qui peut m'aider pour répondre à des questions techniques (Nous sommes 10), il y a deux spécialistes sur AWS notamment.
-
-Pour ce projet je suis donc seul et je dois me baser sur ce qui a été fait (architecte et les développeurs)
-
-Pour l'organisation nous communiquons par Google meet où nous faisons des réunions. 
-Avec Gchat je peux contacter les ingénieurs Indiens également.
-
-Je participe à la fois à la partie front-end et back-end.
-La spécification, l'architecture, le design UI/UX ne m'est pas confié. 
-Il est possible qu'elle puisse être modifié par moi même si besoin, mais je ne pense pas.
-
-Il y a beaucoup de recherche à faire pour trouver les informations utiles et contacter les bonnes personnes m'a prit du temps.
-
-La documentation sur ce qui a été fait n'est pas toujours à jour, il faut donc beaucoup communiquer pour bien comprendre 
-(surtout sur la partie code). Mais j'ai pu trouver tout ce qui m'était nécessaire.
-
-Nous sommes donc 6 sur cette fonctionnalité (système de vote sur des feedback). 
-Mais je suis le seul développeur Full Stack.
+    Méthodologie: Framework agile SAFe 
+    
+    Technologies: Plateforme Cloud Amazon Web Services (AWS), Java, interface React
+    
+    Concernant l'organisation par rapport au nombre de personnes sur le projet :
+    Il y a d'abord le product owner, représentant client qui a déterminé les exigences spécifiques pour ce projet
+    
+    Ingénieur designer UI/UX : Il est chargé de modifier l'IHM présente pour intégrer la nouvelle fonctionnalité,
+    cela impactera donc le code en React, le frontend
+    
+    Architecte IT Indien : Il a été chargé de faire l'architecture complète de l'application Fleet Performance avant,
+    et notamment de la partie feedback, c'est sur cela que je me base pour ajouter le système de vote.
+    
+    Deux développeurs, un front-end et l'autre back-end Indien : Ils ont entre autres été chargés de développer la fonctionnalité feedback
+    
+    Mon Scrum Master : Il est chargé pour l'équipe de gérer le planning (entre autres)
+    pour l'application skywise Health Monitoring (SHM faisant partie de Fleet Performance)
+    et 2 autres applications.
+    
+    Mais pour mon projet je suis maître de mon planning pour mon projet, que je dois lui montrer.
+    
+    Le chef de projet : Il coordonne l'ensemble des équipes d'Alten pour Airbus.
+    
+    Mon équipe, Team 42, qui peut m'aider pour répondre à des questions techniques (Nous sommes 10), il y a deux spécialistes sur AWS notamment.
+    
+    Pour ce projet je suis donc seul et je dois me baser sur ce qui a été fait (architecte et les développeurs)
+    
+    Pour l'organisation nous communiquons par Google meet où nous faisons des réunions. 
+    Avec Gchat je peux contacter les ingénieurs Indiens également.
+    
+    Je participe à la fois à la partie front-end et back-end.
+    La spécification, l'architecture, le design UI/UX ne m'est pas confié. 
+    Il est possible qu'elle puisse être modifié par moi même si besoin, mais je ne pense pas.
+    
+    Il y a beaucoup de recherche à faire pour trouver les informations utiles et contacter les bonnes personnes m'a prit du temps.
+    
+    La documentation sur ce qui a été fait n'est pas toujours à jour, il faut donc beaucoup communiquer pour bien comprendre 
+    (surtout sur la partie code). Mais j'ai pu trouver tout ce qui m'était nécessaire.
+    
+    Nous sommes donc 6 sur cette fonctionnalité (système de vote sur des feedback). 
+    Mais je suis le seul développeur Full Stack.
 
 
 
