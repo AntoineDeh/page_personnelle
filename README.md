@@ -1,11 +1,11 @@
-🚀 **Antoine DEHOUX - Compétences et Projets** 🚀
+# 🚀 **Antoine DEHOUX - Compétences et Projets** 🚀
 
 👋 **Bienvenue sur ma page Compétences et Projets !**
 
-Cette page présente une vue d'ensemble de mes compétences techniques et professionnelles, ainsi qu'une collection 
-de projets réalisés au cours de ma formation en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
+Cette page présente une vue d'ensemble de mes compétences techniques et professionnelles, 
+ainsi qu'une collection de projets réalisés au cours de ma formation en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 
-### 🛠️ **COMPÉTENCES MÉTIER**  
+### 🛠️ **COMPÉTENCES MÉTIER**
 
 **Secteurs d’activités expérimentés :**  
 • Aéronautique (stage de fin d’études avec Airbus via Alten)  
