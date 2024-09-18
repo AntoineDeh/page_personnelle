@@ -1,158 +1,208 @@
-# 🚀 **Antoine DEHOUX - Projets et Démonstrations** 🚀
+🚀 **Antoine DEHOUX - Compétences et Projets** 🚀
 
-👋 **Bienvenue dans ma page Projets et Stages !**
+👋 **Bienvenue sur ma page Compétences et Projets !**
 
-Cette page contient une collection de projets que j'ai réalisés au cours de ma formation en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
+Cette page présente une vue d'ensemble de mes compétences techniques et professionnelles, ainsi qu'une collection 
+de projets réalisés au cours de ma formation en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 
-🎥 **Vous trouverez également des vidéos de démonstration expliquant certains des projets clés**.  
-Chaque projet représente une étape importante de mon parcours, avec des compétences en développement full stack (React), en systèmes embarqués (Python, C++), en développement d’applications mobiles (Java, Android), et en gestion de bases de données (NoSQL).
+### 🛠️ **COMPÉTENCES MÉTIER**  
+
+**Secteurs d’activités expérimentés :**  
+• Aéronautique (stage de fin d’études avec Airbus via Alten)  
+• Systèmes embarqués (projet de fin d’étude pour Thalès et mon option à ESEO)  
+• Logiciels et données (API, Interface, Cloud)  
+• Supervision et Automatisation (Android, projet pour Davidson Consulting)  
+• Ouvert aux autres secteurs d’activités : transport, santé, etc.
+
+**Compétences clés :**  
+• Ingénierie logicielle : architecture, développement, tests et validation, documentation technique  
+• Ingénierie des systèmes embarqués  
+• Développement Full Stack, Web  
+• Développement Android  
+• Algorithmie mathématique, physique et en algorithme pour la « Recherche Optimisée » (IA)
+
+### 💻 **COMPÉTENCES TECHNIQUES**  
+
+• **Outils / matériels :** Raspberry Pi, Capteurs IoT, Robotique  
+• **Langages de programmation :** Java, Python, C, C++, JavaScript, TypeScript, React, HTML, CSS, Kotlin, SQL, NoSQL  
+• **Logiciels :** IntelliJ, VSCode, Oracle, GitHub, AutoCAD, Android Studio, Jira, VersionOne, Selenium, Cucumber, JUnit, Jest, Jenkins  
+• **Normes :** Agile (Scrum, SAFe), Cycle en V, TDD, BDD  
+• **Méthodes :** Développement orienté objet, Design patterns, Architecture logicielle (MVC, REST, MVVM)
+
+### 🎓 **FORMATIONS / CERTIFICATIONS**  
+
+**2024**  
+Diplôme d’ingénieur généraliste, Génie informatique et électronique / ESEO, Angers  
+Option Systèmes embarqués, formation approfondie en logiciels et données  
+
+**2018**  
+Bac Scientifique mention assez bien / Blanche de Castille / Section Européenne (Physique en anglais)  
+
+**2022**  
+TOEIC - Niveau B2, Anglais courant - score 790 / 990  
+Certification Voltaire, français – score : 843 / 1000
+
+### 🌍 **LANGUES**  
+
+• **Anglais :** Courant (B2)  
+• **Français :** Langue maternelle (C2)  
+• **Espagnol :** Niveau seuil (B1)
 
 ---
 
 ## **💼 Projets :**
 
-### ✈️ **Stage de fin d'études - AIRBUS via Alten, Toulouse**
+💼 **Stagiaire Ingénieur Développeur Full Stack à AIRBUS via ALTEN – Toulouse**  
+📅 **Février – Août 2024 (6 mois)**  
 
-**Projet : Skywise Fleet Performance - Alten pour Airbus**
+### ✈️ **Projet : Skywise Fleet Performance - Alten pour Airbus**  
+- **Client :** Alten, Airbus  
+- **Technologies :** Java, React, AWS (S3, Lambda), Elasticsearch, Cucumber, Jenkins  
+- **Rôle :** Full stack developer - Développement front-end et back-end, implémentation d'un algorithme de classement, et gestion de la qualité du code.
 
-- Client : Alten, Airbus
-- Technologies : Java, React, AWS (S3, Lambda), Elasticsearch, Cucumber, Jenkins
-- Description :  
+### **Objectifs à atteindre :**  
+L’application Skywise Fleet Performance permet aux compagnies aériennes de suivre en temps réel les pannes et problèmes survenant à bord des avions durant les vols, 
+de manière à anticiper les réparations nécessaires et absorber les retards qu’elles pourraient créer.
 
-    L’application Skywise Fleet Performance permet aux compagnies aériennes de suivre en temps réel les pannes et problèmes survenant à bord des avions durant les vols, 
-    de manière à anticiper les réparations nécessaires et absorber les retards qu’elles pourraient créer. 
-    
-    Mon projet comprenait la création d'une fonctionnalité de commentaires et d'un système de vote pour fiabiliser les feedbacks utilisateurs :
-    
-    Les systèmes d’alerte impliqués remontent parfois des fausses alertes récurrentes. 
-    Les équipes de développement ont donc implémenté une fonctionnalité qui permet aux utilisateurs de laisser des commentaires sur les alertes 
-    pour signaler s’il s’agit de faux positifs ou de vrais problèmes.
-    
-    Mais à ce jour rien ne permet aux clients de corroborer ou remettre en question les commentaires laissés par d’autres usagers. 
-    Par conséquent, les clients en question pourraient ne pas savoir quelle confiance accorder aux feedbacks laissés sur les alertes.
+Mon projet comprenait la création d'une fonctionnalité de commentaires et d'un système de vote pour fiabiliser les feedbacks utilisateurs. 
+L’objectif principal était de permettre aux utilisateurs de valider ou réfuter les retours de leurs pairs, notamment pour identifier les fausses alertes récurrentes.
 
-- Rôle : Full stack developer - Développement front-end et back-end, implémentation d'un algorithme de classement, et gestion de la qualité du code.
+- **Étude architecturale**
+- **Implémentation de la possibilité de voter sur des commentaires** (back-end et front-end)
+- **Développement d’un algorithme de ranking** pour prioriser les commentaires en fonction de leur pertinence
+- **Mise en place d’une politique de tests rigoureuse** pour garantir la robustesse du système.
 
-- Objectifs à atteindre :
-    L'objectif de ce stage est de mettre en place un système de vote via lequel les utilisateurs de Skywise Fleet Performance pourront corroborer
-    ou remettre en question les commentaires laissés par leurs pairs, de façon à indiquer la justesse de ces derniers. 
-    
-    Les objectifs incluent notamment : 
-    
-    - Étude architecturale  
-    
-    - Implémentation de la possibilité de voter sur des commentaires (en back end et en front end) 
-    
-    - Implémentation d’un algorithme de ranking visant à remonter vers le haut de la page les commentaires les plus populaires et à pénaliser les commentaires les plus controversés 
-    
-    - Mise en place d’une politique de test rigoureuse pour assurer la robustesse de la fonctionnalité,
-    - conformément aux exigences de qualité d’une application industrielle utilisée par plusieurs centaines de compagnies aériennes
+### **Moyens mis en œuvre :**  
+- **Méthodologie :** Framework agile SAFe  
+- **Plateforme Cloud :** AWS (S3, Lambda)  
+- **Organisation :**  
+  - **Product Owner :** Responsable des exigences spécifiques du client.  
+  - **Ingénieur designer UI/UX :** Chargé de l’intégration de la nouvelle fonctionnalité de vote dans l'interface React.  
+  - **Architecte IT Indien :** Responsable de l'architecture de Skywise Fleet Performance.  
+  - **Développeurs (front-end et back-end) Indiens :** En charge de la fonctionnalité feedback.  
+  - **Scrum Master :** Gestion du planning pour plusieurs applications, dont Skywise Fleet Performance.  
+  - **Chef de projet :** Coordination de l'équipe Alten pour Airbus.  
+  - **Mon équipe (Team 42) :** Aide technique (spécialistes AWS).  
 
-- Moyens mis en œuvre :
+Pour ce projet, j’étais le **seul développeur Full Stack** et j’ai dû me baser sur les travaux précédemment réalisés par les architectes et développeurs Indiens.
 
-    Méthodologie: Framework agile SAFe 
-    
-    Technologies: Plateforme Cloud Amazon Web Services (AWS), Java, interface React
-    
-    Concernant l'organisation par rapport au nombre de personnes sur le projet :
-    Il y a d'abord le product owner, représentant client qui a déterminé les exigences spécifiques pour ce projet
-    
-    Ingénieur designer UI/UX : Il est chargé de modifier l'IHM présente pour intégrer la nouvelle fonctionnalité,
-    cela impactera donc le code en React, le frontend
-    
-    Architecte IT Indien : Il a été chargé de faire l'architecture complète de l'application Fleet Performance avant,
-    et notamment de la partie feedback, c'est sur cela que je me base pour ajouter le système de vote.
-    
-    Deux développeurs, un front-end et l'autre back-end Indien : Ils ont entre autres été chargés de développer la fonctionnalité feedback
-    
-    Mon Scrum Master : Il est chargé pour l'équipe de gérer le planning (entre autres)
-    pour l'application skywise Health Monitoring (SHM faisant partie de Fleet Performance)
-    et 2 autres applications.
-    
-    Mais pour mon projet je suis maître de mon planning pour mon projet, que je dois lui montrer.
-    
-    Le chef de projet : Il coordonne l'ensemble des équipes d'Alten pour Airbus.
-    
-    Mon équipe, Team 42, qui peut m'aider pour répondre à des questions techniques (Nous sommes 10), il y a deux spécialistes sur AWS notamment.
-    
-    Pour ce projet je suis donc seul et je dois me baser sur ce qui a été fait (architecte et les développeurs)
-    
-    Pour l'organisation nous communiquons par Google meet où nous faisons des réunions. 
-    Avec Gchat je peux contacter les ingénieurs Indiens également.
-    
-    Je participe à la fois à la partie front-end et back-end.
-    La spécification, l'architecture, le design UI/UX ne m'est pas confié. 
-    Il est possible qu'elle puisse être modifié par moi même si besoin, mais je ne pense pas.
-    
-    Il y a beaucoup de recherche à faire pour trouver les informations utiles et contacter les bonnes personnes m'a prit du temps.
-    
-    La documentation sur ce qui a été fait n'est pas toujours à jour, il faut donc beaucoup communiquer pour bien comprendre 
-    (surtout sur la partie code). Mais j'ai pu trouver tout ce qui m'était nécessaire.
-    
-    Nous sommes donc 6 sur cette fonctionnalité (système de vote sur des feedback). 
-    Mais je suis le seul développeur Full Stack.
+Nous avons utilisé **Google Meet** et **Gchat** pour la communication avec l’équipe, y compris les ingénieurs en Inde. 
+J'ai participé à la fois aux tâches **front-end** et **back-end**, tandis que la spécification, l'architecture, et le design UI/UX n’étaient pas de ma responsabilité directe.
 
+### **Réalisations :**
+- **Implémentation d'un système de vote** pour les commentaires utilisateurs.
+- **Développement en Java, React.js, intégration avec AWS Lambda et Elasticsearch.**
+- **Mise en place d'une politique de tests unitaires et automatiques** avec Jenkins, Junit, Cucumber, Jest, Sonar.  
+- **Analyse et résolution des fausses alertes récurrentes** grâce à un système de commentaires et de votes.
+- **Contribution à l'amélioration de la fiabilité des feedbacks utilisateurs** en développant un algorithme de classement.
 
+### **Documentation :**  
+📊 **Diaporama Skywise Fleet Performance - Airbus** :  
 
-- **Diaporama Skywise Fleet Performance - Airbus** :  
-  https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link
+https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link
+
 
 ---
 
-### 🤖 **Projet de fin d'études - ESEO avec Thalès, Le Mans**
+💼 **Projet de fin d’études, ESEO pour Thalès de Cholet - Angers**  
+📅 **Septembre – Février 2024**
 
-**Projet : ExploBot - Thalès**
+### 🤖 **Projet : ExploBot - Thalès**
+- **Client :** Thalès  
+- **Technologies :** Python, C++, Qt, Jira, Raspberry Pi  
+- **Rôle :** Développeur IHM avec Qt en C++ et développeur Python pour les algorithmes.
 
-- Client : Thalès
-- Technologies : Python, C++, Qt, Jira
-- Description :  
-  Système autonome de cartographie et d'optimisation de trajectoires pour un robot, avec détection d'obstacles et transmission de données en temps réel. Algorithme A* utilisé pour déterminer les chemins optimaux.
-- Rôle : Développement de l'algorithme de cartographie en Python et intégration dans une interface Qt en C++.
+### **Objectifs :**  
+Système autonome de **cartographie robotique** avec optimisation des trajectoires et détection d'obstacles. Le projet ExploBot visait à développer un démonstrateur capable de simuler une flotte de robots capables de cartographier et transmettre les coordonnées des obstacles pour une navigation optimale. 
 
-- **Vidéo ExploBot - Thalès** :  
-  https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view?usp=drive_link
+### **Réalisations :**  
+- **Développement d'un système de cartographie autonome** pour un robot en utilisant **Python** pour les algorithmes et **C++/Qt** pour l'interface graphique sur une architecture embarquée Raspberry Pi.  
+- **Implémentation de l'algorithme A*** pour déterminer le **plus court chemin** et optimiser les déplacements du robot dans un environnement inconnu.  
+- **Modélisation 3D** avec **TinkerCAD** pour la conception d'un support de capteur à ultrason.  
+- **Communication TCP** entre le robot et l'interface (Android ou Windows) pour la transmission des données de cartographie, détection d'obstacles et communication des mouvements à réaliser.
 
----
+### **Environnement technique :**  
+- **VSCode, PyCharm, Python, C++, Qt, TinkerCAD, Raspberry Pi**
 
-### 🔐 **Projet confidentiel - ESEO avec le RAID**
-
-**Projet : Supervision de capteurs pour le RAID**
-
-- Client : RAID (Projet ESEO)
-- Technologies : Java, Android Studio, TCP/IP, Raspberry Pi
-- Description :  
-  Développement d'une application mobile pour la surveillance de capteurs (présence, bruit, pression) dans un bâtiment sécurisé. L’application permet de configurer, interconnecter et visualiser les capteurs sur smartphone et tablette.
-- Rôle : Développement de l'application Android, gestion des communications réseau et revue de code.
-
-- **Vidéo Supervision de capteurs - RAID** :  
-  https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive_link
+### **Documentation :**  
+📹 **Vidéo ExploBot - Thalès** :  
+https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view?usp=drive_link
 
 ---
 
-### 🌡️ **Projet ESEO avec Davidson Consulting, Angers**
+💼 **Projet d’option en systèmes embarqués, ESEO pour le RAID - Angers**  
+📅 **Février – Juin 2023**
 
-**Projet : Plateforme de récupération de chaleur fatale - Davidson Consulting**
+### 🔐 **Projet : Supervision de capteurs pour le RAID**  
+- **Client :** RAID (Projet ESEO)  
+- **Technologies :** Java, Kotlin, Android Studio, Android Jetpack, Cycle en V, Git  
+- **Rôle :** Développeur Android
 
-- Client : Davidson Consulting
-- Technologies : C, Java, Android, Raspberry Pi
-- Description :  
-  Développement d'une plateforme de supervision pour la récupération de chaleur fatale des serveurs afin de chauffer des bâtiments. Utilisation de capteurs et actionneurs simulés sur Raspberry Pi avec interface Android.
-- Rôle : Responsable qualité et tests - Rédaction des spécifications, planification des tests et gestion des tests avec Squash TM.
+### **Objectifs :**  
+Développement d'une application Android pour la **visualisation** et la **supervision de capteurs intelligents** dans un bâtiment sécurisé. Ce projet avait pour but de permettre aux équipes du RAID de gérer à distance les capteurs installés dans le bâtiment (détection de présence, bruit, pression) via un **smartphone** ou une **tablette**.
 
-- **Vidéo Plateforme de récupération de chaleur - Davidson Consulting** :  
-  https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view?usp=drive_link
+### **Réalisations :**  
+- **Développement de l'application Android** pour visualiser et configurer les capteurs en temps réel.  
+- **Contribution au design UX/UI** pour une gestion intuitive des capteurs via une interface adaptée à l'utilisation sur mobile et tablette.  
+- **Implémentation d'un système de configuration et de supervision** des capteurs, en prenant en compte les contraintes liées à l’autonomie des dispositifs et à leur communication.
+
+### **Environnement technique :**  
+- **Java, Kotlin, Android Studio, Android Jetpack, Cycle en V, Git**
+
+### **Documentation :**  
+📹 **Vidéo Supervision de capteurs - RAID** :  
+https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive_link
 
 ---
 
-### 🏭 **Stage technique - Exotec, Lille**
+💼 **Projet d’option en systèmes embarqués, ESEO pour Davidson Consulting - Angers**  
+📅 **Février – Juin 2022**
 
-**Stage R&D Systèmes & Essais - Exotec**
+### 🌡️ **Projet : Plateforme de récupération de chaleur fatale - Davidson Consulting**  
+- **Client :** Davidson Consulting  
+- **Technologies :** C, Java, Android, Raspberry Pi  
+- **Rôle :** Responsable Qualité et Tests Logiciel
 
-- Client : Exotec
-- Technologies : AutoCAD, Python, Raspberry Pi
-- Description :  
-  R&D sur des systèmes de convoyage automatisé pour des entrepôts. Création d’un template d'implantation sous AutoCAD, conception d’une boîte de dérivation pour cartes électroniques et tests divers.
-- Rôle : Conception de solutions matérielles et logicielles, tests et validation des prototypes.
+### **Objectifs :**  
+Développement d'une **plateforme de supervision** pour la récupération de **chaleur fatale** des serveurs afin de **chauffer des bâtiments**. 
+Ce projet impliquait l'utilisation de capteurs et actionneurs simulés sur Raspberry Pi, ainsi qu'une interface de gestion sur Android.
+
+### **Réalisations :**  
+- **Responsable de la qualité et des tests** pour garantir la couverture complète du projet via une plateforme Android et un système embarqué en C sur Raspberry Pi.  
+- **Élaboration du Plan d'Assurance Qualité et Test (PAQL)**, définition des scénarios de test, et rédaction de la documentation technique.  
+- **Supervision de la qualité du code** en C et Android (Java), ainsi que l'intégration des tests automatiques pour assurer la robustesse du projet.
+
+### **Environnement technique :**  
+- **Squash TM, Git, Documentation technique, Raspberry Pi, Android, C**
+
+### **Documentation :**  
+📹 **Vidéo Plateforme de récupération de chaleur - Davidson Consulting** :  
+https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view?usp=drive_link
+
+
+---
+
+💼 **Stagiaire Ingénieur Systèmes & Essais – EXOTEC – Croix (près de Lille, Hauts-de-France)**  
+📅 **Septembre – Novembre 2021**
+
+### 🏭 **Projet : Conception mécanique d’un convoyeur pour une flotte de robots autonomes**  
+- **Client :** Exotec  
+- **Technologies :** AutoCAD, Python, Conception technique, Raspberry Pi  
+- **Rôle :** Stagiaire Ingénieur Systèmes & Essais
+
+### **Objectifs :**  
+Conception mécanique et validation d’un **système de convoyage automatisé** pour une flotte de **robots autonomes** dans des entrepôts logistiques, avec une personnalisation aisée pour l’installation et le chiffrage.
+
+### **Réalisations :**  
+- **Conception mécanique** d’un système de convoyage pour la logistique, incluant la création d’un **Template d'implantation sous AutoCAD** pour faciliter la personnalisation et le chiffrage lors des installations en usine.  
+- **Développement d'une boîte de dérivation** pour l'intégration de cartes électroniques, depuis le prototype jusqu’à la production.  
+- **Réalisation de divers tests** (mécanique, câblage, électronique, thermodynamique) pour valider le bon fonctionnement des systèmes.
+
+### **Environnement technique :**  
+- **AutoCAD, Python, Conception technique, Documentation technique**
+
+### **Documentation :**  
+- **Stage R&D Systèmes & Essais - Exotec**
 
 ---
 
