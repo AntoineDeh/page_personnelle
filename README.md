@@ -65,7 +65,7 @@ Certification Voltaire, français – score : 843 / 1000
 ### ✈️ **Projet : Skywise Fleet Performance - Alten pour Airbus**  
 - **Client :** Alten, Airbus  
 - **Technologies :** Java, React, AWS (S3, Lambda), Elasticsearch, Cucumber, Jenkins  
-- **Rôle :** Full stack developer - Développement front-end et back-end, implémentation d'un algorithme de classement, et gestion de la qualité du code.
+- **Rôle :** Full stack developer - Développement front-end et back-end, implémentation d'un système de vote, d'un algorithme de classement et gestion de la qualité du code.
 
 ### **Objectifs à atteindre :**  
 L’application Skywise Fleet Performance permet aux compagnies aériennes de suivre en temps réel les pannes et problèmes survenant à bord des avions durant les vols, 
