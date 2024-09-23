@@ -168,7 +168,7 @@ https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive
 💼 **Projet d’option en systèmes embarqués, ESEO pour Davidson Consulting - Angers**  
 📅 **Février – Juin 2022**
 
-### 🌡️ **Projet : Plateforme de récupération de chaleur fatale - Davidson Consulting**  
+### 🌡️ **Projet : Plateforme de récupération de chaleur fatale de serveurs - Davidson Consulting**  
 - **Client :** Davidson Consulting  
 - **Technologies :** C, Java, Android, Raspberry Pi  
 - **Rôle :** Responsable Qualité et Tests Logiciel
