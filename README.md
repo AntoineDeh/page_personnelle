@@ -115,7 +115,7 @@ https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive
 ---
 
 💼 **Projet de fin d’études, ESEO pour Thalès de Cholet - Angers**  
-📅 **Septembre – Février 2023**
+📅 **Septembre 2023 – Février 2024**
 
 ### 🤖 **Projet : ExploBot - Thalès**
 - **Client :** Thalès  
