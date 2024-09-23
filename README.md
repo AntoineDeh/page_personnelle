@@ -9,6 +9,9 @@ en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 ### **MON CV :**  
 https://drive.google.com/file/d/1npzh-GzE89jqKkF6YcwRKBiD8WZl_FqA/view?usp=sharing
 
+### **Résultats de tests technique coding game (Java, Python, C, C++ ) :**  
+https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
+
 ### 🛠️ **COMPÉTENCES MÉTIER**
 
 **Secteurs d’activités expérimentés :**  
