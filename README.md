@@ -3,7 +3,11 @@
 👋 **Bienvenue sur ma page Compétences et Projets !**
 
 Cette page présente une vue d'ensemble de mes compétences techniques et professionnelles, 
-ainsi qu'une collection de projets réalisés au cours de ma formation en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
+ainsi qu'une collection de projets réalisés au cours de ma formation 
+en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
+
+### **MON CV :**  
+https://drive.google.com/file/d/1npzh-GzE89jqKkF6YcwRKBiD8WZl_FqA/view?usp=sharing
 
 ### 🛠️ **COMPÉTENCES MÉTIER**
 
