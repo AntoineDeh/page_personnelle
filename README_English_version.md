@@ -1,6 +1,6 @@
 # 🚀 Antoine DEHOUX - Skills and Projects **🚀
 
-# 👋 **Welcome to my Skills and Projects page !**
+**👋 **Welcome to my Skills and Projects page !**
 
 This page presents an overview of my technical and professional skills,  
 as well as a collection of projects completed during my training  
