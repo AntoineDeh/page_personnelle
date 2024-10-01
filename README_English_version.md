@@ -1,4 +1,4 @@
-# 🚀 Antoine DEHOUX - Skills and Projects **🚀
+# 🚀 **Antoine DEHOUX - Skills and Projects**🚀
 
 ### 👋 **Welcome to my Skills and Projects page !**
 
