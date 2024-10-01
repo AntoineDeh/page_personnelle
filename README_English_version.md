@@ -111,6 +111,128 @@ I participated in both **front-end** and **back-end** tasks, while specification
 📊 **Skywise Fleet Performance - Airbus Presentation:**  
 https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link
 
+---
+
+💼 **Final Year Project, ESEO for Thalès de Cholet - Angers**  
+📅 **September 2023 – February 2024**
+
+### 🤖 **Project: ExploBot - Thalès**
+- **Client:** Thalès  
+- **Technologies:** Python, C++, Qt, Jira, Raspberry Pi  
+- **Role:** GUI Developer with Qt in C++ and Python developer for algorithms.
+
+### **Objectives:**  
+Autonomous **robotic mapping system** with trajectory optimization and obstacle detection. The ExploBot project aimed to develop a demonstrator capable of simulating a fleet of robots able to map and transmit the coordinates of obstacles for optimal navigation.
+
+### **Achievements:**  
+- **Development of an autonomous mapping system** for a robot using **Python** for algorithms and **C++/Qt** for the graphical interface on a Raspberry Pi embedded architecture.  
+- **Implementation of the A*** algorithm to determine the **shortest path** and optimize the robot's movements in an unknown environment.  
+- **3D modeling** with **TinkerCAD** for the design of an ultrasonic sensor mount.  
+- **TCP communication** between the robot and the interface (Android or Windows) for transmitting mapping data, obstacle detection, and movement communication.
+
+### **Technical environment:**  
+- **VSCode, PyCharm, Python, C++, Qt, TinkerCAD, Raspberry Pi**
+
+### **Documentation:**  
+📹 **ExploBot - Thalès Video:**  
+https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view?usp=drive_link
+
+---
+
+💼 **Embedded Systems Option Project, ESEO for RAID - Angers**  
+📅 **February – June 2023**
+
+### 🔐 **Project: Sensor Supervision for RAID**  
+- **Client:** RAID (ESEO Project)  
+- **Technologies:** Java, Kotlin, Android Studio, Android Jetpack, V-Model, Git  
+- **Role:** Android Developer
+
+### **Objectives:**  
+Development of an Android application for **visualization** and **supervision of intelligent sensors** in a secured building. The goal of this project was to allow RAID teams to remotely manage sensors installed in the building (presence detection, sound, pressure) via a **smartphone** or **tablet**.
+
+### **Achievements:**  
+- **Development of the Android application** to visualize and configure sensors in real-time.  
+- **Contribution to the UX/UI design** for intuitive management of sensors via an interface suited for use on mobile and tablet.  
+- **Implementation of a configuration and supervision system** for the sensors, considering the autonomy constraints of the devices and their communication.
+
+### **Technical environment:**  
+- **Java, Kotlin, Android Studio, Android Jetpack, V-Model, Git**
+
+### **Documentation:**  
+📹 **Sensor Supervision - RAID Video:**  
+https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive_link
+
+---
+
+💼 **Embedded Systems Option Project, ESEO for Davidson Consulting - Angers**  
+📅 **February – June 2022**
+
+### 🌡️ **Project: Heat Recovery Platform from Servers - Davidson Consulting**  
+- **Client:** Davidson Consulting  
+- **Technologies:** C, Java, Android, Raspberry Pi  
+- **Role:** Quality and Software Testing Manager
+
+### **Objectives:**  
+Development of a **supervision platform** for the recovery of **waste heat** from servers to **heat buildings**. This project involved the use of simulated sensors and actuators on Raspberry Pi, as well as a management interface on Android.
+
+### **Achievements:**  
+- **Quality and testing manager** to ensure full project coverage via an Android platform and an embedded system in C on Raspberry Pi.  
+- **Development of the Quality Assurance and Testing Plan (PAQL)**, definition of test scenarios, and writing of technical documentation.  
+- **Supervision of code quality** in C and Android (Java), as well as the integration of automatic tests to ensure project robustness.
+
+### **Technical environment:**  
+- **Squash TM, Git, Technical documentation, Raspberry Pi, Android, C**
+
+### **Documentation:**  
+📹 **Heat Recovery Platform - Davidson Consulting Video:**  
+https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view?usp=drive_link
+
+---
+
+💼 **Systems & Testing Engineering Intern – EXOTEC – Croix (near Lille, Hauts-de-France)**  
+📅 **September – November 2021**
+
+### 🏭 **Project: Mechanical Design of a Conveyor for a Fleet of Autonomous Robots**  
+- **Client:** Exotec  
+- **Technologies:** AutoCAD, Python, Technical design, Raspberry Pi  
+- **Role:** Systems & Testing Engineering Intern
+
+### **Objectives:**  
+Mechanical design and validation of an **automated conveyor system** for a fleet of **autonomous robots** in logistics warehouses, with easy customization for installation and pricing.
+
+### **Achievements:**  
+- **Mechanical design** of a conveyor system for logistics, including the creation of a **template under AutoCAD** to facilitate customization and pricing during factory installations.  
+- **Development of a junction box** for the integration of electronic boards, from prototype to production.  
+- **Completion of various tests** (mechanical, wiring, electronic, thermodynamic) to validate the system's proper functioning.
+
+### **Technical environment:**  
+- **AutoCAD, Python, Technical design, Technical documentation**
+
+### **Documentation:**  
+- **R&D Systems & Testing Intern - Exotec**
+
+---
+
+### 🎮 **Personal Projects**
+
+#### 🕹️ **Video game projects in Python**:
+- PacMan
+- The Game of Life
+- Mastermind
+- Mini-golf
+- Chess
+- Snake
+- Etc.
+
+#### 💻 **Useful Applications**:
+- **Find Diagnosis**: Use of GPT 3.5 API to diagnose diseases based on symptoms (Python, Android).
+- **Notification Bot**: A bot to check for new grades on the ESEO intranet and notify by email (Python, React).
+
+- **Personal Projects [Google Drive]**:  
+  https://drive.google.com/drive/folders/1wL_WRprnR27kxL3sJ6IGCh9vApJjLCaJ?hl=en
+
+---
+
 ...
 
 Contact:  
