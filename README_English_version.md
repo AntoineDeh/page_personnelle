@@ -1,19 +1,18 @@
- """
-# 🚀 Antoine DEHOUX - Skills and Projects 🚀
+# 🚀 Antoine DEHOUX - Skills and Projects **🚀
 
-👋 Welcome to my Skills and Projects page!
+👋 **Welcome to my Skills and Projects page !**
 
 This page presents an overview of my technical and professional skills,  
 as well as a collection of projects completed during my training  
 as a computer engineering student, specializing in Embedded Systems.
 
-### MY CV:  
+### **MY CV :**  
 https://drive.google.com/file/d/1npzh-GzE89jqKkF6YcwRKBiD8WZl_FqA/view?usp=sharing
 
-### Technical test results on coding game (Java, Python, C, C++):  
+### **Technical test results on coding game (Java, Python, C, C++):**  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
 
-### 🛠️ PROFESSIONAL SKILLS
+### **🛠️ PROFESSIONAL SKILLS**
 
 **Experienced sectors:**  
 • Aeronautics (final internship with Airbus via Alten)  
@@ -29,7 +28,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 • Android Development  
 • Mathematical algorithms, physics, and algorithm for “Optimized Search” (AI)
 
-### 💻 TECHNICAL SKILLS  
+### **💻 TECHNICAL SKILLS** 
 
 • **Tools / equipment:** Raspberry Pi, IoT Sensors, Robotics  
 • **Programming languages:** Java, Python, C, C++, JavaScript, TypeScript, React, HTML, CSS, Kotlin, SQL, NoSQL  
@@ -37,7 +36,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 • **Standards:** Agile (Scrum, SAFe), V-Model, TDD, BDD  
 • **Methods:** Object-Oriented Development, Design Patterns, Software Architecture (MVC, REST, MVVM)
 
-### 🎓 EDUCATION / CERTIFICATIONS  
+### **🎓 EDUCATION / CERTIFICATIONS**  
 
 **2024**  
 General Engineering Degree, Computer and Electronic Engineering / ESEO, Angers  
@@ -58,7 +57,7 @@ Voltaire Certification, French – score: 843 / 1000
 
 ---
 
-## 💼 Projects:
+## **💼 Projects:**
 
 💼 **Full Stack Developer Intern at AIRBUS via ALTEN – Toulouse**  
 📅 **February – August 2024 (6 months)**  
