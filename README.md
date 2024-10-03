@@ -40,7 +40,11 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 
 **2024**  
 Diplôme d’ingénieur généraliste, Génie informatique et électronique / ESEO, Angers  
-Option Systèmes embarqués, formation approfondie en logiciels et données  
+Option Systèmes embarqués, formation approfondie en logiciels et données
+
+**Attestation de diplôme :**
+
+https://drive.google.com/file/d/1dVhbQnrtipbwkTzg9KBsbA-ze5peT1Ym/view?usp=drivesdk
 
 **2018**  
 Bac Scientifique mention assez bien / Blanche de Castille / Section Européenne (Physique en anglais)  
