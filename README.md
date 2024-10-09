@@ -15,6 +15,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 ### **Références :**
 
 • Nom : Laura Antony, Poste : Tutrice stage, Responsable Ingénieur, ALTEN, Téléphone : 06 60 15 49 96
+
 • Nom : Christophe Contreras, Poste : Chef de projet, ALTEN pour Airbus, Téléphone : 06 83 97 23 66
 
 ### 🛠️ **COMPÉTENCES MÉTIER**
