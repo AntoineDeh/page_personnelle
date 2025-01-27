@@ -76,7 +76,7 @@ Certification Voltaire, français – score : 843 / 1000
 📅 **Février – Août 2024 (6 mois)**  
 
 ### ✈️ **Projet : Skywise Fleet Performance - Alten pour Airbus**  
-- **Client :** Alten, Airbus  
+- **Client :** Alten, Airbus  - Sigle : AIRBUS SDOE
 - **Technologies :** Java, React, AWS (S3, Lambda), Elasticsearch, Cucumber, Jenkins  
 - **Rôle :** Full stack developer -
 - Projet sur une application concernant la maintenance des avions :
