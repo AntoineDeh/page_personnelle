@@ -7,10 +7,7 @@ ainsi qu'une collection de projets réalisés au cours de ma formation
 en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 
 ### **MON CV :**  
-https://drive.google.com/file/d/15TvTV0c6S5EcCDzJn_qI0r2VVRIWtoVs/view?usp=drivesdk
-
-### **Dossier de compétences Alten :** 
-https://drive.google.com/file/d/1nXEv7LJFz0Zr1ykc7h4YOp6qOOWgIZil/view?usp=sharing
+https://drive.google.com/file/d/1BdDGY_YJrRUavbSyNZ3mFQtLYQHyrrdE/view?usp=drivesdk
 
 ### **Résultats de tests technique coding game (Java, Python, C, C++ ) :**  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
