@@ -7,7 +7,7 @@ ainsi qu'une collection de projets réalisés au cours de ma formation
 en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 
 ### **MON CV :**  
-https://drive.google.com/file/d/1BdDGY_YJrRUavbSyNZ3mFQtLYQHyrrdE/view?usp=drivesdk
+https://drive.google.com/file/d/1Cvb-eCCd2MPjg9YHg9l6ktoJM84pNPzi/view?usp=drivesdk
 
 ### **Résultats de tests technique coding game (Java, Python, C, C++ ) :**  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
