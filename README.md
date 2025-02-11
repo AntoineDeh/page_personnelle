@@ -32,7 +32,7 @@ en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 ## 2. Je recherche un poste :
 
 Je suis à la recherche d'un poste en tant que **Développeur Backend Java et Python**.  
-Je suis motivé à intégrer une équipe technique où je pourrai mettre en pratique mes compétences en **ingénierie logicielle, développement backend et systèmes embarqués**.
+Je suis motivé à intégrer une équipe technique où je pourrai mettre en pratique mes compétences en **ingénierie logicielle, développement backend.**
 
 ---
 
