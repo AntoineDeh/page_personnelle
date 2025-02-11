@@ -10,22 +10,22 @@ en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 
 ## 📌 1. Sommaire
 
-1. [Je recherche un poste](#2-je-recherche-un-poste)
-2. [Mon CV](#3-mon-cv)
-3. [Résultats de tests techniques](#4-résultats-de-tests-techniques)
-4. [Références](#5-références)
-5. [🛠️ Compétences Métier](#6-compétences-métier)
-6. [💻 Compétences Techniques](#7-compétences-techniques)
-7. [🎓 Formations / Certifications](#8-formations-certifications)
-8. [🌍 Langues](#9-langues)
-9. [💼 Projets](#10-projets)
+2. [Je recherche un poste](#2-je-recherche-un-poste)
+3. [Mon CV](#3-mon-cv)
+4. [Résultats de tests techniques](#4-résultats-de-tests-techniques)
+5. [Références](#5-références)
+6. [🛠️ Compétences Métier](#6-compétences-métier)
+7. [💻 Compétences Techniques](#7-compétences-techniques)
+8. [🎓 Formations / Certifications](#8-formations-certifications)
+9. [🌍 Langues](#9-langues)
+10. [💼 Projets](#10-projets)
     - [Projet Airbus - Alten](#101-projet-airbus---alten)
     - [Projet ExploBot - Thalès](#102-projet-explobot---thalès)
     - [Projet Supervision de capteurs - RAID](#103-projet-supervision-de-capteurs---raid)
     - [Projet Plateforme de récupération de chaleur - Davidson Consulting](#104-projet-plateforme-de-récupération-de-chaleur---davidson-consulting)
     - [Projet Exotec - Systèmes & Essais](#105-projet-exotec---systèmes-essais)
     - [🎮 Projets personnels](#106-projets-personnels)
-10. [📧 Contact](#11-contact)
+11. [📧 Contact](#11-contact)
 
 ---
 
