@@ -8,40 +8,47 @@ en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
 
 ---
 
-## 📌 Sommaire
+## 📌 1. Sommaire
 
-1. [Mon CV](#mon-cv)
-2. [Résultats de tests techniques](#résultats-de-tests-techniques)
-3. [Références](#références)
-4. [🛠️ Compétences Métier](#compétences-métier)
-5. [💻 Compétences Techniques](#compétences-techniques)
-6. [🎓 Formations / Certifications](#formations-certifications)
-7. [🌍 Langues](#langues)
-8. [💼 Projets](#projets)
-    - [Projet Airbus - Alten](#projet-airbus---alten)
-    - [Projet ExploBot - Thalès](#projet-explobot---thalès)
-    - [Projet Supervision de capteurs - RAID](#projet-supervision-de-capteurs---raid)
-    - [Projet Plateforme de récupération de chaleur - Davidson Consulting](#projet-plateforme-de-récupération-de-chaleur---davidson-consulting)
-    - [Projet Exotec - Systèmes & Essais](#projet-exotec---systèmes-essais)
-    - [🎮 Projets personnels](#projets-personnels)
-9. [📧 Contact](#contact)
+1. [Je recherche un poste](#2-je-recherche-un-poste)
+2. [Mon CV](#3-mon-cv)
+3. [Résultats de tests techniques](#4-résultats-de-tests-techniques)
+4. [Références](#5-références)
+5. [🛠️ Compétences Métier](#6-compétences-métier)
+6. [💻 Compétences Techniques](#7-compétences-techniques)
+7. [🎓 Formations / Certifications](#8-formations-certifications)
+8. [🌍 Langues](#9-langues)
+9. [💼 Projets](#10-projets)
+    - [Projet Airbus - Alten](#101-projet-airbus---alten)
+    - [Projet ExploBot - Thalès](#102-projet-explobot---thalès)
+    - [Projet Supervision de capteurs - RAID](#103-projet-supervision-de-capteurs---raid)
+    - [Projet Plateforme de récupération de chaleur - Davidson Consulting](#104-projet-plateforme-de-récupération-de-chaleur---davidson-consulting)
+    - [Projet Exotec - Systèmes & Essais](#105-projet-exotec---systèmes-essais)
+    - [🎮 Projets personnels](#106-projets-personnels)
+10. [📧 Contact](#11-contact)
 
 ---
 
+## 2. Je recherche un poste :
 
-### **MON CV :**  
+Je suis à la recherche d'un poste en tant que **Développeur Backend Java et Python**.  
+Je suis motivé à intégrer une équipe technique où je pourrai mettre en pratique mes compétences en **ingénierie logicielle, développement backend et systèmes embarqués**.
+
+---
+
+## 3. MON CV :
 https://drive.google.com/file/d/1Cvb-eCCd2MPjg9YHg9l6ktoJM84pNPzi/view?usp=drivesdk
 
-### **Résultats de tests technique coding game (Java, Python, C, C++ ) :**  
+## 4. Résultats de tests techniques :  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
 
-### **Références :**
+## 5. Références :
 
 • Nom : Laura Antony, Poste : Tutrice stage, Responsable Ingénieur, ALTEN, Téléphone : 06 60 15 49 96
 
 • Nom : Christophe Contreras, Poste : Chef de projet, ALTEN pour Airbus, Téléphone : 06 83 97 23 66
 
-### 🛠️ **COMPÉTENCES MÉTIER**
+## 6. 🛠️ Compétences Métier :
 
 **Secteurs d’activités expérimentés :**  
 • Aéronautique (stage de fin d’études avec Airbus via Alten)  
@@ -57,7 +64,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 • Développement Android  
 • Algorithmie mathématique, physique et en algorithme pour la « Recherche Optimisée » (IA)
 
-### 💻 **COMPÉTENCES TECHNIQUES**  
+## 7. 💻 Compétences Techniques :
 
 • **Outils / matériels :** Raspberry Pi, Capteurs IoT, Robotique  
 • **Langages de programmation :** Java, Python, C, C++, JavaScript, TypeScript, React, HTML, CSS, Kotlin, SQL, NoSQL  
@@ -65,7 +72,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 • **Normes :** Agile (Scrum, SAFe), Cycle en V, TDD, BDD  
 • **Méthodes :** Développement orienté objet, Design patterns, Architecture logicielle (MVC, REST, MVVM)
 
-### 🎓 **FORMATIONS / CERTIFICATIONS**  
+## 8. 🎓 Formations / Certifications :
 
 **2024**  
 Diplôme d’ingénieur généraliste, Génie informatique et électronique / ESEO, Angers  
@@ -82,7 +89,7 @@ Bac Scientifique mention assez bien / Blanche de Castille / Section Européenne 
 TOEIC - Niveau B2, Anglais courant - score 790 / 990  
 Certification Voltaire, français – score : 843 / 1000
 
-### 🌍 **LANGUES**  
+## 9. 🌍 Langues :
 
 • **Anglais :** Courant (B2)  
 • **Français :** Langue maternelle (C2)  
@@ -90,7 +97,9 @@ Certification Voltaire, français – score : 843 / 1000
 
 ---
 
-## **💼 Projets :**
+## 10. 💼 Projets
+
+### 10.1. ✈️ Projet Airbus - Alten
 
 💼 **Stagiaire Ingénieur Développeur Full Stack à AIRBUS via ALTEN – Toulouse**  
 📅 **Février – Août 2024 (6 mois)**  
@@ -147,10 +156,10 @@ https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive
 
 ---
 
+### 10.2. 🤖 Projet ExploBot - Thalès 
+
 💼 **Projet de fin d’études, ESEO pour Thalès de Cholet - Angers**  
 📅 **Septembre 2023 – Février 2024**
-
-### 🤖 **Projet : ExploBot - Thalès**
 - **Client :** Thalès  
 - **Technologies :** Python, C++, Qt, Jira, Raspberry Pi  
 - **Rôle :** Développeur IHM avec Qt en C++ et développeur Python pour les algorithmes.
@@ -173,10 +182,11 @@ https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view?usp=drive
 
 ---
 
+### 10.3. 🔐 Projet Supervision de capteurs - RAID
+
 💼 **Projet d’option en systèmes embarqués, ESEO pour le RAID - Angers**  
 📅 **Février – Juin 2023**
 
-### 🔐 **Projet : Supervision de capteurs pour le RAID**  
 - **Client :** RAID (Projet ESEO)  
 - **Technologies :** Java, Kotlin, Android Studio, Android Jetpack, Cycle en V, Git  
 - **Rôle :** Développeur Android
@@ -198,10 +208,11 @@ https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive
 
 ---
 
+### 10.4. 🌡️ Projet Plateforme de récupération de chaleur - Davidson Consulting 
+
 💼 **Projet d’option en systèmes embarqués, ESEO pour Davidson Consulting - Angers**  
 📅 **Février – Juin 2022**
 
-### 🌡️ **Projet : Plateforme de récupération de chaleur fatale de serveurs - Davidson Consulting**  
 - **Client :** Davidson Consulting  
 - **Technologies :** C, Java, Android, Raspberry Pi  
 - **Rôle :** Responsable Qualité et Tests Logiciel
@@ -225,10 +236,12 @@ https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view?usp=drive
 
 ---
 
+### 10.5. 🏭 Projet Exotec - Systèmes & Essais 
+
 💼 **Stagiaire Ingénieur Systèmes & Essais – EXOTEC – Croix (près de Lille, Hauts-de-France)**  
 📅 **Septembre – Novembre 2021**
 
-### 🏭 **Projet : Conception mécanique d’un convoyeur pour une flotte de robots autonomes**  
+🏭 **Projet : Conception mécanique d’un convoyeur pour une flotte de robots autonomes
 - **Client :** Exotec  
 - **Technologies :** AutoCAD, Python, Conception technique, Raspberry Pi  
 - **Rôle :** Stagiaire Ingénieur Systèmes & Essais
@@ -249,7 +262,7 @@ Conception mécanique et validation d’un **système de convoyage automatisé**
 
 ---
 
-### 🎮 **Projets personnels**
+### 10.6. 🎮 Projets personnels
 
 #### 🕹️ **Projets de jeux vidéo en Python** :
 - PacMan
@@ -269,7 +282,7 @@ Conception mécanique et validation d’un **système de convoyage automatisé**
 
 ---
 
-**Contact :**
+## 11. 📧 Contact 
 
 - 📧 Email : antoine.dehoux@reseau.eseo.fr  
 - 📱 Téléphone : 07 68 54 44 73
