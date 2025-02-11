@@ -4,7 +4,7 @@
 
 Cette page présente une vue d'ensemble de mes compétences techniques et professionnelles, 
 ainsi qu'une collection de projets réalisés au cours de ma formation 
-en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
+en tant qu'ingénieur en génie informatique en développement logiciels, WEB.
 
 ---
 
