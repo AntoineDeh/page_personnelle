@@ -24,8 +24,8 @@ en tant qu'ingénieur en génie informatique, option Systèmes embarqués.
     - [Projet Supervision de capteurs - RAID](#103-projet-supervision-de-capteurs---raid)
     - [Projet Plateforme de récupération de chaleur - Davidson Consulting](#104-projet-plateforme-de-récupération-de-chaleur---davidson-consulting)
     - [Projet Exotec - Systèmes & Essais](#105-projet-exotec---systèmes-essais)
-    - [🎮 Projets personnels](#106-projets-personnels)
-11. [📧 Contact](#11-contact)
+11. [🎮 Projets personnels](#106-projets-personnels)
+12. [📧 Contact](#11-contact)
 
 ---
 
@@ -262,7 +262,7 @@ Conception mécanique et validation d’un **système de convoyage automatisé**
 
 ---
 
-### 10.6. 🎮 Projets personnels
+### 11. 🎮 Projets personnels
 
 #### 🕹️ **Projets de jeux vidéo en Python** :
 - PacMan
@@ -282,7 +282,7 @@ Conception mécanique et validation d’un **système de convoyage automatisé**
 
 ---
 
-## 11. 📧 Contact 
+## 12. 📧 Contact 
 
 - 📧 Email : antoine.dehoux@reseau.eseo.fr  
 - 📱 Téléphone : 07 68 54 44 73
