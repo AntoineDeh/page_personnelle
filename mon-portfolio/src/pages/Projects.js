@@ -1,69 +1,88 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 function Projects() {
+  const [projects, setProjects] = useState([]);
+
+  useEffect(() => {
+    fetch("/projects.json")
+      .then(response => response.json())
+      .then(data => setProjects(data.projects || []))
+      .catch(error => console.error("Erreur lors du chargement des projets :", error));
+  }, []);
+
   return (
     <div className="container mx-auto text-center mt-10 p-6">
       <h1 className="text-4xl font-bold text-blue-600">💼 Projets</h1>
-      <p className="mt-4 text-lg">Découvrez les projets sur lesquels j'ai travaillé, en entreprise et académiques.</p>
+      <p className="mt-4 text-lg">Découvrez les projets sur lesquels j'ai travaillé, en entreprise, académiques et personnels.</p>
 
-      <hr className="my-6 border-gray-300"/>
+      <hr className="my-6 border-gray-300" />
 
-      <h2 className="text-2xl font-bold text-gray-800">✈️ Projet Airbus - Alten</h2>
-      <p className="mt-2 text-gray-700">
-        Développement d'une fonctionnalité de vote et d'un algorithme de classement pour améliorer 
-        la fiabilité des feedbacks des compagnies aériennes.
-      </p>
-      <p><strong>Technologies :</strong> Java, React, AWS (S3, Lambda), Elasticsearch, Cucumber, Jenkins</p>
-      <a className="text-blue-500 hover:underline" href="https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-        📊 Voir la documentation
-      </a>
+      {projects.length === 0 ? (
+        <p className="text-gray-500">Aucun projet disponible.</p>
+      ) : (
+        projects.map((project, index) => (
+          <div key={index} className="mt-6 p-4 border rounded-lg shadow-md">
+            <h2 className="text-2xl font-bold text-gray-800">{project.title}</h2>
+            {project.role && <p className="mt-2 text-gray-700"><strong>Rôle :</strong> {project.role}</p>}
+            {project.date && <p className="text-gray-700"><strong>Date :</strong> {project.date}</p>}
+            <p className="text-gray-700"><strong>Client :</strong> {project.client || "Projet personnel"}</p>
+            {project.technologies && project.technologies.length > 0 && (
+              <p className="text-gray-700"><strong>Technologies :</strong> {project.technologies.join(", ")}</p>
+            )}
+            {project.description && <p className="mt-2 text-gray-700">{project.description}</p>}
 
-      <h2 className="text-2xl font-bold text-gray-800 mt-6">🤖 Projet ExploBot - Thalès</h2>
-      <p className="mt-2 text-gray-700">
-        Développement d'un système autonome de cartographie robotique avec optimisation des trajectoires.
-      </p>
-      <p><strong>Technologies :</strong> Python, C++, Qt, Raspberry Pi</p>
-      <a className="text-blue-500 hover:underline" href="https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-        📹 Voir la démonstration
-      </a>
+            {project.objectives && project.objectives.length > 0 && (
+              <div>
+                <h3 className="text-xl font-semibold text-gray-700 mt-4">Objectifs :</h3>
+                <ul className="text-lg mt-2 space-y-2">
+                  {project.objectives.map((objective, i) => (
+                    <li key={i}>• {objective}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
 
-      <h2 className="text-2xl font-bold text-gray-800 mt-6">🔐 Projet Supervision de capteurs - RAID</h2>
-      <p className="mt-2 text-gray-700">
-        Application Android pour surveiller et configurer des capteurs dans un bâtiment sécurisé.
-      </p>
-      <p><strong>Technologies :</strong> Java, Kotlin, Android Studio</p>
-      <a className="text-blue-500 hover:underline" href="https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-        📹 Voir la démonstration
-      </a>
+            {project.key_tasks && project.key_tasks.length > 0 && (
+              <div>
+                <h3 className="text-xl font-semibold text-gray-700 mt-4">Principales tâches :</h3>
+                <ul className="text-lg mt-2 space-y-2">
+                  {project.key_tasks.map((task, i) => (
+                    <li key={i}>• {task}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
 
-      <h2 className="text-2xl font-bold text-gray-800 mt-6">🌡️ Projet Plateforme de récupération de chaleur - Davidson Consulting</h2>
-      <p className="mt-2 text-gray-700">
-        Développement d'une plateforme pour récupérer la chaleur fatale des serveurs et chauffer des bâtiments.
-      </p>
-      <p><strong>Technologies :</strong> C, Java, Android, Raspberry Pi</p>
-      <a className="text-blue-500 hover:underline" href="https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-        📹 Voir la démonstration
-      </a>
+            {project.methodology && (
+              <p className="mt-2 text-gray-700"><strong>Méthodologie :</strong> {project.methodology}</p>
+            )}
 
-      <h2 className="text-2xl font-bold text-gray-800 mt-6">🏭 Projet Exotec - Systèmes & Essais</h2>
-      <p className="mt-2 text-gray-700">
-        Conception mécanique et validation d'un système de convoyage automatisé pour une flotte de robots logistiques.
-      </p>
-      <p><strong>Technologies :</strong> AutoCAD, Python, Raspberry Pi</p>
+            {project.organization && project.organization.length > 0 && (
+              <div>
+                <h3 className="text-xl font-semibold text-gray-700 mt-4">Organisation :</h3>
+                <ul className="text-lg mt-2 space-y-2">
+                  {project.organization.map((member, i) => (
+                    <li key={i}>• {member}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
 
-      <hr className="my-6 border-gray-300"/>
-
-      <h2 className="text-2xl font-bold text-gray-800">🎮 Projets personnels</h2>
-      <ul className="text-lg mt-4 space-y-2">
-        <li>• 🕹️ Développement de jeux vidéo en Python (PacMan, Snake, Échecs...)</li>
-        <li>• 📱 Find Diagnosis : Diagnostic basé sur GPT-3.5</li>
-        <li>• 🔔 Bot de notification pour vérifier les notes sur l'intranet</li>
-      </ul>
-      <p className="mt-2">
-        <a className="text-blue-500 hover:underline" href="https://drive.google.com/drive/folders/1wL_WRprnR27kxL3sJ6IGCh9vApJjLCaJ?hl=fr" target="_blank" rel="noopener noreferrer">
-          📂 Voir tous les projets
-        </a>
-      </p>
+            {project.documentation && (
+              <p className="mt-2">
+                <a
+                  className="text-blue-500 hover:underline"
+                  href={project.documentation}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  📂 Voir la documentation
+                </a>
+              </p>
+            )}
+          </div>
+        ))
+      )}
     </div>
   );
 }

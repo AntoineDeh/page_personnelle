@@ -1,0 +1,151 @@
+{
+    "projects": [
+        {
+            "title": "✈️ Projet Airbus - Alten",
+            "role": "Stagiaire Ingénieur Développeur Full Stack à AIRBUS via ALTEN – Toulouse",
+            "date": "Février – Août 2024 (6 mois)",
+            "client": "Alten, Airbus - Sigle : AIRBUS SDOE",
+            "technologies": [
+                "Java",
+                "React",
+                "AWS (S3, Lambda)",
+                "Elasticsearch",
+                "Cucumber",
+                "Jenkins"
+            ],
+            "description": "Développement front-end et back-end (Java et React) : implémentation d'un système de vote et d'un algorithme de classement des feedbacks utilisateurs",
+            "objectives": [
+                "Suivi en temps réel des pannes et problèmes survenant à bord des avions",
+                "Anticipation des réparations nécessaires et réduction des retards",
+                "Création d'une fonctionnalité de commentaires et d'un système de vote",
+                "Identification des fausses alertes récurrentes"
+            ],
+            "key_tasks": [
+                "Étude architecturale",
+                "Implémentation de la possibilité de voter sur des commentaires (back-end et front-end)",
+                "Développement d’un algorithme de ranking pour prioriser les commentaires",
+                "Mise en place d’une politique de tests rigoureuse (Jenkins, Junit, Cucumber, Jest, Sonar)"
+            ],
+            "methodology": "Framework agile SAFe",
+            "organization": [
+                "Product Owner : Responsable des exigences spécifiques du client.",
+                "Ingénieur designer UI/UX : Chargé de l’intégration de la nouvelle fonctionnalité de vote dans l'interface React.",
+                "Architecte IT Indien : Responsable de l'architecture de Skywise Fleet Performance.",
+                "Développeurs (front-end et back-end) Indiens : En charge de la fonctionnalité feedback.",
+                "Scrum Master : Gestion du planning pour plusieurs applications, dont Skywise Fleet Performance.",
+                "Chef de projet : Coordination de l'équipe Alten pour Airbus.",
+                "Mon équipe (Team 42) : Aide technique (spécialistes AWS)."
+            ],
+            "documentation": "https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view?usp=drive_link"
+        },
+        {
+            "title": "🤖 Projet ExploBot - Thalès",
+            "role": "Projet de fin d’études, ESEO pour Thalès de Cholet - Angers",
+            "date": "Septembre 2023 – Février 2024",
+            "client": "Thalès",
+            "technologies": [
+                "Python",
+                "C++",
+                "Qt",
+                "Jira",
+                "Raspberry Pi"
+            ],
+            "description": "Développement d'un système autonome de cartographie robotique avec optimisation des trajectoires.",
+            "objectives": [
+                "Système autonome de cartographie robotique",
+                "Optimisation des trajectoires et détection d'obstacles",
+                "Développement d'une interface graphique Qt",
+                "Modélisation 3D et communication TCP entre le robot et l'interface"
+            ],
+            "key_tasks": [
+                "Développement de l'algorithme A* pour optimiser les trajectoires du robot",
+                "Développement de l'interface graphique sous Qt en C++",
+                "Modélisation 3D avec TinkerCAD",
+                "Communication TCP entre le robot et l’interface utilisateur"
+            ],
+            "documentation": "https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view?usp=drive_link"
+        },
+        {
+            "title": "🔐 Projet Supervision de capteurs - RAID",
+            "role": "Projet d’option en systèmes embarqués, ESEO pour le RAID - Angers",
+            "date": "Février – Juin 2023",
+            "client": "RAID (Projet ESEO)",
+            "technologies": [
+                "Java",
+                "Kotlin",
+                "Android Studio",
+                "Android Jetpack",
+                "Git"
+            ],
+            "description": "Développement d'une application Android pour la supervision de capteurs intelligents dans un bâtiment sécurisé.",
+            "objectives": [
+                "Visualisation et configuration des capteurs en temps réel",
+                "Gestion intuitive des capteurs via une interface mobile et tablette",
+                "Intégration des contraintes d'autonomie et de communication des capteurs"
+            ],
+            "documentation": "https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view?usp=drive_link"
+        },
+        {
+            "title": "🌡️ Projet Plateforme de récupération de chaleur - Davidson Consulting",
+            "role": "Projet d’option en systèmes embarqués, ESEO pour Davidson Consulting - Angers",
+            "date": "Février – Juin 2022",
+            "client": "Davidson Consulting",
+            "technologies": [
+                "C",
+                "Java",
+                "Android",
+                "Raspberry Pi"
+            ],
+            "description": "Développement d'une plateforme de supervision pour la récupération de chaleur fatale des serveurs.",
+            "objectives": [
+                "Supervision de la qualité du code en C et Android",
+                "Élaboration du Plan d'Assurance Qualité et Test (PAQL)",
+                "Intégration des tests automatiques pour assurer la robustesse du projet"
+            ],
+            "documentation": "https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view?usp=drive_link"
+        },
+        {
+            "title": "🏭 Projet Exotec - Systèmes & Essais",
+            "role": "Stagiaire Ingénieur Systèmes & Essais – EXOTEC – Croix",
+            "date": "Septembre – Novembre 2021",
+            "client": "Exotec",
+            "technologies": [
+                "AutoCAD",
+                "Python",
+                "Conception technique",
+                "Raspberry Pi"
+            ],
+            "description": "Conception mécanique et validation d’un système de convoyage automatisé pour une flotte de robots logistiques.",
+            "objectives": [
+                "Création d’un Template d'implantation sous AutoCAD",
+                "Développement d'une boîte de dérivation pour l'intégration de cartes électroniques",
+                "Tests mécanique, câblage, électronique et thermodynamique"
+            ]
+        },
+        {
+            "title": "🎮 Projets personnels",
+            "role": "Développement personnel et expérimentation technologique",
+            "date": "Divers",
+            "technologies": [
+                "Python",
+                "Android",
+                "React",
+                "API GPT-3.5",
+                "Git"
+            ],
+            "description": "Développement de divers projets personnels, incluant des jeux vidéo et des applications utiles.",
+            "objectives": [
+                "Apprentissage de nouvelles technologies",
+                "Développement d'outils pratiques et ludiques",
+                "Exploration des capacités d'IA et d'automatisation"
+            ],
+            "key_tasks": [
+                "Développement de jeux vidéo en Python : PacMan, Mastermind, Mini-golf, Jeu d'échecs, Snake, etc.",
+                "Création de l'application Find Diagnosis utilisant l'API GPT-3.5 pour diagnostiquer des maladies en fonction des symptômes.",
+                "Développement d'un bot de notification pour surveiller les nouvelles notes sur l'intranet de l'ESEO et envoyer des alertes par email."
+            ],
+            "documentation": "https://drive.google.com/drive/folders/1wL_WRprnR27kxL3sJ6IGCh9vApJjLCaJ?hl=fr"
+        }
+        
+    ]
+}
