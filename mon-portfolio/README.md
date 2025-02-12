@@ -2,6 +2,8 @@
 
 Ce projet est mon portfolio personnel développé en React avec Tailwind CSS.
 
+Si Node.js est en-dessous de 16.x, mets-le à jour en téléchargeant la dernière version depuis Node.js officiel.
+
 ## 🚀 Installation et utilisation
 
 1. Clonez le dépôt :
@@ -13,6 +15,13 @@ Ce projet est mon portfolio personnel développé en React avec Tailwind CSS.
 2. Installez les dépendances :
    ```
    npm install
+
+   npm install -g react-scripts
+
+   npm install -D @craco/craco
+   
+   npm install -D tailwindcss postcss autoprefixer
+
    ```
 
 3. Démarrez le serveur local :
