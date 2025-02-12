@@ -66,11 +66,40 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 
 ## 7. 💻 Compétences Techniques :
 
-• **Outils / matériels :** Raspberry Pi, Capteurs IoT, Robotique  
-• **Langages de programmation :** Java, Python, C, C++, JavaScript, TypeScript, React, HTML, CSS, Kotlin, SQL, NoSQL  
-• **Logiciels :** IntelliJ, VSCode, Oracle, GitHub, AutoCAD, Android Studio, Jira, VersionOne, Selenium, Cucumber, JUnit, Jest, Jenkins  
-• **Normes :** Agile (Scrum, SAFe), Cycle en V, TDD, BDD  
-• **Méthodes :** Développement orienté objet, Design patterns, Architecture logicielle (MVC, REST, MVVM)
+## Compétences techniques  
+
+### 7.1. Développement Backend (Java, Python)  
+• Langages : Java, JEE, Spring Boot, Python  
+• Frameworks : Spring (Spring Boot, Spring MVC, Spring Security) 
+• API & Web Services : REST, OpenAPI (Swagger)  
+• Bases de données : MySQL, PostgreSQL, NoSQL (MongoDB, Elasticsearch)  
+• Tests backend : JUnit, Mockito, Cucumber, Pytest  
+
+### 7.2. Développement Frontend (React, TypeScript, JavaScript)  
+• Langages : JavaScript, TypeScript, React, HTML, CSS  
+• Frameworks & Bibliothèques : React, Redux, Next.js  
+• Tests frontend : Jest, React Testing Library  
+• UI & Design : Material-UI, Tailwind CSS  
+
+### 7.3. DevOps & Déploiement  
+• Outils CI/CD : GitHub Actions, Jenkins  
+• Conteneurisation : Docker  
+• Cloud : AWS (S3, Lambda - notions de base)  
+
+### 7.4. Outils & Environnement de développement  
+• IDE & Logiciels : IntelliJ, VSCode, GitHub, Android Studio, Jira  
+• Outils de test : Selenium, Jest, Cucumber  
+• Matériel : Raspberry Pi, Capteurs IoT  
+
+### 7.5. Méthodologies & Bonnes Pratiques  
+• Méthodes agiles : Scrum, SAFe  
+• Développement : TDD, BDD, Clean Code, SOLID  
+• Architecture logicielle : MVC, REST  
+
+### 7.6. Compétences complémentaires  
+• Rédaction technique en anglais  
+• Collaboration en équipe agile  
+
 
 ## 8. 🎓 Formations / Certifications :
 
