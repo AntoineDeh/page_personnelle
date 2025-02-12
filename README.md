@@ -64,9 +64,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 • Développement Android  
 • Algorithmie mathématique, physique et en algorithme pour la « Recherche Optimisée » (IA)
 
-## 7. 💻 Compétences Techniques :
-
-## Compétences techniques  
+## 7. 💻 Compétences Techniques : 
 
 ### 7.1. Développement Backend (Java, Python)  
 • Langages : Java, JEE, Spring Boot, Python  
