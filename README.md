@@ -44,9 +44,9 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 
 ## 5. Références :
 
-• Nom : Laura Antony, Poste : Tutrice stage, Responsable Ingénieur, ALTEN, Téléphone : 06 60 15 49 96
+• Nom : Amaury Goncalves de Carvalho, Poste : Ingénieur développeur Frontend, ALTEN pour Airbus, Téléphone : 06 08 57 74 41
 
-• Nom : Christophe Contreras, Poste : Chef de projet, ALTEN pour Airbus, Téléphone : 06 83 97 23 66
+• Nom : Laura Antony, Poste : Tutrice stage, Responsable Ingénieur, ALTEN, Téléphone : 06 60 15 49 96
 
 ## 6. 🛠️ Compétences Métier :
 
