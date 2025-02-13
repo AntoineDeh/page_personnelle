@@ -107,14 +107,12 @@ Option Systèmes embarqués, formation approfondie en logiciels et données
 
 L'ESEO est une école d'ingénieurs généraliste spécialisée dans les technologies du numérique.
 
-Formation en 5 ans :
-
 Cycle préparatoire (2 ans) : enseignements en mathématiques, physique, informatique et sciences de l’ingénieur, pour acquérir un socle scientifique solide.
+
 Cycle ingénieur (3 ans) : approfondissement en informatique, électronique, systèmes embarqués, mais aussi en sciences humaines et sociales
 Pluridisciplinarité : formation alliant compétences techniques avancées et soft skills, avec des spécialisations en logiciels, IA, cybersécurité, IoT et bien d'autres domaines.
 
 Ouverture à l’international et au monde professionnel : stages, projets et collaborations avec les entreprises.
-
 L’ESEO forme des ingénieurs capables d’innover et de s’adapter aux enjeux technologiques actuels.
 
 **Attestation de diplôme :**
