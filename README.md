@@ -31,8 +31,10 @@ en tant qu'ingénieur en génie informatique en développement logiciels, WEB.
 
 ## 2. Je recherche un poste :
 
-Je suis à la recherche d'un poste en tant que **Développeur Backend Java et Python**.  
-Je suis motivé à intégrer une équipe technique où je pourrai mettre en pratique mes compétences en **ingénierie logicielle, développement backend.**
+Titulaire du diplôme d'Ingénieur en génie informatique d'ESEO en 2024, j'ai
+acquis de l'expérience en stage à Airbus et en projets d'école avec des
+entreprises comme Thalès. Enthousiaste et motivé, je cherche un poste de
+développeur **web Backend**.
 
 ---
 
