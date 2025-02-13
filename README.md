@@ -44,6 +44,9 @@ https://drive.google.com/file/d/1Cvb-eCCd2MPjg9YHg9l6ktoJM84pNPzi/view?usp=drive
 ## 4. Résultats de tests techniques :  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
 
+## Dossier de compétences déjà fait pour Davidson Consulting :
+https://drive.google.com/file/d/175DFFiqBZS8uRPwKn26DalEsaX0WryIh/view?usp=sharing
+
 ## 5. Références :
 
 • Nom : Amaury Goncalves de Carvalho, Poste : Ingénieur développeur Frontend, ALTEN pour Airbus, Téléphone : 06 08 57 74 41
