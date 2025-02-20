@@ -1,4 +1,4 @@
-# 🚀 **Antoine DEHOUX - Compétences et Projets** 🚀
+# 🚀 **Antoine DEHOUX - Ingénieur Test logiciel** 🚀
 
 👋 **Bienvenue sur ma page Compétences et Projets !**
 
@@ -39,7 +39,7 @@ testeur logiciel, automatisation de tests.
 ---
 
 ## 3. MON CV :
-https://drive.google.com/file/d/1Cvb-eCCd2MPjg9YHg9l6ktoJM84pNPzi/view?usp=drivesdk
+https://drive.google.com/file/d/1Fqgjq8Y7IRxw7YYk9wv6z5FzUSfT_LRC/view?usp=drivesdk
 
 ## 4. Résultats de tests techniques :  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
