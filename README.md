@@ -4,7 +4,7 @@
 
 Cette page présente une vue d'ensemble de mes compétences techniques et professionnelles, 
 ainsi qu'une collection de projets réalisés au cours de ma formation 
-en tant qu'ingénieur en génie informatique en développement logiciels, WEB.
+en tant qu'ingénieur en génie informatique en développement logiciels.
 
 ---
 
@@ -34,7 +34,7 @@ en tant qu'ingénieur en génie informatique en développement logiciels, WEB.
 Titulaire du diplôme d'Ingénieur en génie informatique d'ESEO en 2024, j'ai
 acquis de l'expérience en stage à Airbus et en projets d'école avec des
 entreprises comme Thalès. Enthousiaste et motivé, je cherche un poste de
-développeur **web Backend**.
+testeur logiciel, automatisation de tests.
 
 ---
 
