@@ -71,7 +71,7 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 ### 7.1. Langages & Scripting pour Tests
 • Langages : 
 - Python
-- Bash/Shell (scripts d’automatisation et maintenance), - Java
+- Bash/Shell (scripts d’automatisation et maintenance) - Java
 - C++, Qt
 
 ### 7.2. Frameworks & Outils de Tests
@@ -95,10 +95,12 @@ Jira, TestRail, Squash (suivi des cas de tests et reporting des anomalies)
 Jenkins, GitHub Actions (orchestration des pipelines de tests automatisés)
 
 • Conteneurisation :
-Docker (création d’environnements de test isolés et reproductibles)
+- Docker (création d’environnements de test isolés et reproductibles)
 
 • Outils d’analyse statique :
-Pylint, SonarQube, Flake8 (contrôle qualité du code des scripts de tests)
+- Pylint
+- SonarQube
+- Flake8 (contrôle qualité du code des scripts de tests)
 
 ### 7.4. Outils & Environnement de Développement
 • Environnements :
