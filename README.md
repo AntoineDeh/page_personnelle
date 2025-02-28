@@ -68,37 +68,65 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 
 ## 7. 💻 Compétences Techniques : 
 
-### 7.1. Développement Backend (Java, Python)  
-• Langages : Java, JEE, Spring Boot, Python  
-• Frameworks : Spring (Spring Boot, Spring MVC, Spring Security) 
-• API & Web Services : REST, OpenAPI (Swagger)  
-• Bases de données : MySQL, PostgreSQL, NoSQL (MongoDB, Elasticsearch)  
-• Tests backend : JUnit, Mockito, Cucumber, Pytest  
+### 7.1. Langages & Scripting pour Tests
+• Langages : 
+- Python
+- Bash/Shell (scripts d’automatisation et maintenance), - Java
+- C++, Qt
 
-### 7.2. Développement Frontend (React, TypeScript, JavaScript)  
-• Langages : JavaScript, TypeScript, React, HTML, CSS  
-• Frameworks & Bibliothèques : React, Redux, Next.js  
-• Tests frontend : Jest, React Testing Library  
-• UI & Design : Material-UI, Tailwind CSS  
+### 7.2. Frameworks & Outils de Tests
 
-### 7.3. DevOps & Déploiement  
-• Outils CI/CD : GitHub Actions, Jenkins  
-• Conteneurisation : Docker  
-• Cloud : AWS (S3, Lambda - notions de base)  
+• Frameworks de tests automatisés :
 
-### 7.4. Outils & Environnement de développement  
-• IDE & Logiciels : IntelliJ, VSCode, GitHub, Android Studio, Jira  
-• Outils de test : Selenium, Jest, Cucumber  
-• Matériel : Raspberry Pi, Capteurs IoT  
+- Pytest 
+- Robot Framework (tests fonctionnels et d’intégration en Python)
+- Selenium
+- Appium
+- Pywinauto (automatisation des interfaces graphiques)
+- JUnit
+- TestNG (tests unitaires en Java)
 
-### 7.5. Méthodologies & Bonnes Pratiques  
-• Méthodes agiles : Scrum, SAFe  
-• Développement : TDD, BDD, Clean Code, SOLID  
-• Architecture logicielle : MVC, REST  
+• Outils de gestion de tests :
+Jira, TestRail, Squash (suivi des cas de tests et reporting des anomalies)
 
-### 7.6. Compétences complémentaires  
-• Rédaction technique en anglais  
-• Collaboration en équipe agile  
+### 7.3. Intégration Continue & Déploiement
+• Outils CI/CD :
+
+Jenkins, GitHub Actions (orchestration des pipelines de tests automatisés)
+
+• Conteneurisation :
+Docker (création d’environnements de test isolés et reproductibles)
+
+• Outils d’analyse statique :
+Pylint, SonarQube, Flake8 (contrôle qualité du code des scripts de tests)
+
+### 7.4. Outils & Environnement de Développement
+• Environnements :
+Linux (exécution des tests et scripts sur serveurs ou systèmes embarqués)
+
+• Outils & IDE :
+VSCode, IntelliJ, GitHub, Jira (développement, collaboration et gestion de projets)
+
+• Gestion de versions :
+Git (suivi des évolutions des scripts de tests)
+
+### 7.5. Méthodologies & Bonnes Pratiques
+
+• Méthodes agiles : Scrum, SAFe (organisation des cycles de tests dans un contexte agile)
+
+• Approches de tests :
+TDD (Test Driven Development)
+BDD (Behavior Driven Development)
+
+• Qualité logicielle : Clean Code, SOLID (maintenabilité et robustesse des scripts de tests)
+
+### 7.6. Compétences Complémentaires
+
+• Rédaction technique : Documentation des plans et scénarios de tests, rapports de validation
+
+• Analyse & Reporting : Capacité à analyser les résultats de tests et à communiquer efficacement les anomalies
+
+• Soft skills : Rigueur, attention aux détails, esprit d’analyse, collaboration en équipe agile, rédaction technique en anglais
 
 
 ## 8. 🎓 Formations / Certifications :
