@@ -71,7 +71,8 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 ### 7.1. Langages & Scripting pour Tests
 • Langages : 
 - Python
-- Bash/Shell (scripts d’automatisation et maintenance) - Java
+- Bash/Shell, scripts d’automatisation et maintenance
+- Java
 - C++, Qt
 
 ### 7.2. Frameworks & Outils de Tests
