@@ -48,8 +48,6 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 
 • Nom : Amaury Goncalves de Carvalho, Poste : Ingénieur développeur Frontend, ALTEN pour Airbus, Téléphone : 06 08 57 74 41
 
-• Nom : Laura Antony, Poste : Tutrice stage, Responsable Ingénieur, ALTEN, Téléphone : 06 60 15 49 96
-
 ## 6. 🛠️ Compétences Métier :
 
 **Secteurs d’activités expérimentés :**  
