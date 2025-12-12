@@ -39,18 +39,18 @@ testeur logiciel, automatisation de tests.
 ---
 
 ## 3. MON CV :
-https://drive.google.com/file/d/1Fqgjq8Y7IRxw7YYk9wv6z5FzUSfT_LRC/view?usp=drivesdk
+https://drive.google.com/file/d/1ko2Oc-0bJr31v8KVmoGSK-nD4ixDM_wm/view?usp=drivesdk
 
 ## 4. Résultats de tests techniques :  
 https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sharing
 
 ## 5. Références :
-
-• Nom : Amaury Goncalves de Carvalho, Poste : Ingénieur développeur Frontend, ALTEN pour Airbus, Téléphone : 06 08 57 74 41
+Demande de contact par mail au besoin.
 
 ## 6. 🛠️ Compétences Métier :
 
 **Secteurs d’activités expérimentés :**  
+• Ferroviaire : Ingénieur contrôle commande
 • Aéronautique (stage de fin d’études avec Airbus via Alten)  
 • Systèmes embarqués (projet de fin d’étude pour Thalès et mon option à ESEO)  
 • Logiciels et données (API, Interface, Cloud)  
@@ -68,6 +68,8 @@ https://drive.google.com/drive/folders/1K18rY6AEoBNGUbadvDf-cUzOW-zRGW_D?usp=sha
 
 ### 7.1. Langages & Scripting pour Tests
 • Langages : 
+- C/C++
+- Control Build : Logigramme, structured text
 - Python
 - Bash/Shell, scripts d’automatisation et maintenance
 - Java
