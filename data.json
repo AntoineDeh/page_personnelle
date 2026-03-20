@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "name": "Antoine Dehoux",
+    "title": "Ingénieur Systèmes Embarqués",
+    "operator_label": "INGÉNIEUR SYSTÈMES EMBARQUÉS",
+    "location": "La Rochelle · 17000",
+    "email": "antoine.dehoux@reseau.eseo.fr",
+    "phone": "07 68 54 44 73",
+    "github": "https://github.com/AntoineDeh",
+    "linkedin": "https://www.linkedin.com/in/antoine-dehoux-50a99517b",
+    "availability": "DISPONIBLE — CDI · PRESTATION",
+    "availability_detail": "CDI · Prestation · La Rochelle",
+    "sys_version": "2025.1",
+    "clearance": "ENGINEER",
+    "contact_intro": "Disponible pour des missions en systèmes embarqués critiques, contrôle-commande ferroviaire ou aéronautique."
+  },
+
+  "boot_lines": [
+    "SYS_INIT........... OK",
+    "LOADING OPERATOR PROFILE......",
+    "CLEARANCE: ENGINEER · VERIFIED",
+    "SECTOR: FERROVIAIRE · AÉRO",
+    "STACK MODULES: ONLINE",
+    "PORTFOLIO READY ■■■■■■■■■■■■■■■■■■■■"
+  ],
+
+  "typewriter_phrases": [
+    "Ingénieur Contrôle-Commande",
+    "Logiciel Embarqué Critique",
+    "Ferroviaire · EN 50128",
+    "Systèmes Embarqués Industriels"
+  ],
+
+  "hero_status_bar": [
+    { "dot": "dot-green", "label": "STATUT",  "value": "OPÉRATIONNEL" },
+    { "dot": "dot-cyan",  "label": "SECTEUR", "value": "FERROVIAIRE / AÉRO" },
+    { "dot": "dot-yellow","label": "CONTRAT", "value": "CDI" }
+  ],
+
+  "hero_description": "Ingénieur diplômé <span class=\"hl\">ESEO</span> — option <span class=\"hl\">systèmes embarqués</span>.<br/>Développement &amp; validation de <span class=\"hl\">logiciels critiques</span> sous <span class=\"hl-y\">EN 50128</span>, cycle en V, traçabilité <span class=\"hl\">DOORS</span>.<br/>Expérience <span class=\"hl-g\">ferroviaire (Alstom)</span> et <span class=\"hl\">aéronautique (Airbus)</span>.",
+
+  "instruments": [
+    {
+      "label": "Expérience totale",
+      "value": "1<span style=\"font-size:16px;color:var(--text-lo)\">AN</span>",
+      "sub": "Alstom via ALTEN — mai 2025",
+      "bar_pct": 30,
+      "bar_color": ""
+    },
+    {
+      "label": "Secteurs critiques",
+      "value": "2",
+      "sub": "Ferroviaire · Aéronautique",
+      "bar_pct": 100,
+      "bar_color": "var(--green)"
+    },
+    {
+      "label": "Projets livrés",
+      "value": "5<span style=\"font-size:16px;color:var(--text-lo)\">+</span>",
+      "sub": "ESEO · Alstom · Airbus",
+      "bar_pct": 75,
+      "bar_color": "var(--yellow)"
+    },
+    {
+      "label": "Langue — TOEIC",
+      "value": "790<span style=\"font-size:14px;color:var(--text-lo)\">/990</span>",
+      "sub": "B2 · Équipe internationale (Inde)",
+      "bar_pct": 80,
+      "bar_color": "#9D4EDD"
+    }
+  ],
+
+  "stack": [
+    { "name": "Texte Structuré", "signal": 5, "color": "#00E5FF" },
+    { "name": "C / C++",        "signal": 4, "color": "#00E5FF" },
+    { "name": "Python",         "signal": 5, "color": "#00FF87" },
+    { "name": "Java",           "signal": 4, "color": "#FFD600" },
+    { "name": "React / TypeScript", "signal": 3, "color": "#9D4EDD" },
+    { "name": "ControlBuild",   "signal": 5, "color": "#00E5FF" },
+    { "name": "IBM DOORS",      "signal": 5, "color": "#FF4444" },
+    { "name": "IBM ClearCase",  "signal": 5, "color": "#FF4444" },
+    { "name": "Git / GitLab",   "signal": 4, "color": "#FF8800" },
+    { "name": "Jira",           "signal": 4, "color": "#0080FF" },
+    { "name": "Linux Embarqué", "signal": 4, "color": "#00FF87" },
+    { "name": "Raspberry Pi",   "signal": 4, "color": "#FF4444" },
+    { "name": "Jenkins",        "signal": 3, "color": "#FF8800" },
+    { "name": "AWS",            "signal": 3, "color": "#FFD600" },
+    { "name": "Squash TM",      "signal": 4, "color": "#00E5FF" },
+    { "name": "EN 50128",       "signal": 5, "color": "#FFD600" }
+  ],
+
+  "experience": [
+    {
+      "id": "MISSION-001",
+      "role": "Ingénieur Contrôle-Commande",
+      "company": "ALTEN pour ALSTOM",
+      "company_html": "ALTEN pour <span style=\"color:var(--cyan)\">ALSTOM</span>",
+      "location": "La Rochelle",
+      "type": "CDI",
+      "period": "Mai 2025 – Présent",
+      "duration": "1",
+      "icon": "🚆",
+      "card_class": "mc-card-cyan",
+      "stripe_color": "var(--cyan)",
+      "description": "Développement de <strong>logiciels embarqués critiques</strong> pour des projets de tramways en France et à l'international. Contraintes fortes de sécurité, traçabilité et qualité logicielle.",
+      "norms": ["EN 50128", "EN 50657"],
+      "responsibilities": [
+        "Développement de fonctions critiques de sécurité — appels d'urgence, vidéo-protection, sécurité conducteur",
+        "Implémentation logique de contrôle-commande en Texte Structuré &amp; Logigrammes",
+        "Validation fonctionnelle sur bancs de tests",
+        "Gestion de configuration multi-projets (IBM ClearCase)",
+        "Traçabilité des exigences (IBM DOORS)",
+        "Outils d'automatisation Python",
+        "Communication quotidienne avec équipe internationale — Inde"
+      ],
+      "techs": ["Texte Structuré", "C/C++", "Python", "ControlBuild", "IBM DOORS", "IBM ClearCase", "Jira", "Squash TM"],
+      "links": []
+    },
+    {
+      "id": "MISSION-002",
+      "role": "Stagiaire Ingénieur Full Stack",
+      "company": "ALTEN / AIRBUS",
+      "company_html": "<span style=\"color:var(--yellow)\">ALTEN</span> / <span style=\"color:var(--yellow)\">AIRBUS</span>",
+      "location": "Toulouse",
+      "type": "Stage",
+      "period": "Fév. – Août 2024",
+      "duration": "6",
+      "icon": "✈️",
+      "card_class": "mc-card-yellow",
+      "stripe_color": "var(--yellow)",
+      "description": "Développement full stack sur <strong>Skywise Fleet Performance</strong>, plateforme SaaS de maintenance aéronautique utilisée par les compagnies aériennes mondiales pour le suivi d'incidents.",
+      "norms": ["Agile SAFe", "CI/CD", "DO-178"],
+      "responsibilities": [
+        "Développement backend Java &amp; frontend React / TypeScript",
+        "Système de votes et ranking des feedbacks utilisateurs",
+        "Algorithme de priorisation des retours",
+        "Tests automatisés JUnit, Cucumber — intégration continue Jenkins",
+        "Qualité SonarQube — Agile SAFe"
+      ],
+      "techs": ["Java", "React", "TypeScript", "AWS", "Elasticsearch", "Jenkins", "JUnit", "Cucumber"],
+      "links": [
+        { "label": "Présentation du projet", "url": "https://drive.google.com/file/d/1jBYdn8ffqBE4qPEja3jssbTFPoClIOyk/view" }
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "PROJ-001",
+      "title": "Robot Autonome",
+      "partner": "Thales",
+      "context": "PFE ESEO",
+      "year": "2023–2024",
+      "status": "done",
+      "icon": "🤖",
+      "card_class": "pc-r",
+      "description": "Robot capable de cartographier un environnement inconnu, détecter les obstacles et calculer la trajectoire optimale.",
+      "highlights": [
+        "Navigation &amp; cartographie — Python",
+        "Algorithme A* — chemin optimal",
+        "IHM C++ / Qt",
+        "Communication TCP/IP — Raspberry Pi",
+        "Modélisation 3D supports capteurs TinkerCAD"
+      ],
+      "techs": ["Python", "C++", "Qt", "TCP/IP", "Raspberry Pi", "3D"],
+      "link": { "label": "Démo vidéo", "url": "https://drive.google.com/file/d/1iMMP3T2973p0tTCVWFizippVR7orDbxf/view" }
+    },
+    {
+      "id": "PROJ-002",
+      "title": "Supervision Capteurs RAID",
+      "partner": "Société anonyme",
+      "context": "Projet ESEO",
+      "year": "2023",
+      "status": "done",
+      "icon": "🔐",
+      "card_class": "pc-c",
+      "description": "Application Android de supervision temps réel de capteurs intelligents dans un bâtiment sécurisé.",
+      "highlights": [
+        "Développement Android Java / Kotlin",
+        "Visualisation temps réel des capteurs",
+        "Configuration &amp; supervision à distance",
+        "Conception UX/UI"
+      ],
+      "techs": ["Java", "Kotlin", "Android", "TCP/IP", "Raspberry Pi"],
+      "link": { "label": "Vidéo présentation", "url": "https://drive.google.com/file/d/1U9cLyZiWEbWx0KVTBpmd0TaTmrf7VaxU/view" }
+    },
+    {
+      "id": "PROJ-003",
+      "title": "Récupération Chaleur Fatale",
+      "partner": "Davidson Consulting",
+      "context": "Projet ESEO",
+      "year": "2022",
+      "status": "done",
+      "icon": "🌡️",
+      "card_class": "pc-y",
+      "description": "Supervision d'un système de récupération de chaleur serveurs pour chauffer des bâtiments. Rôle : Responsable Qualité &amp; Tests.",
+      "highlights": [
+        "Plan d'assurance qualité",
+        "Scénarios &amp; cahier de tests Squash TM",
+        "Validation système embarqué C",
+        "Validation Android Java — Raspberry Pi"
+      ],
+      "techs": ["C", "Java", "Squash TM", "Android", "Raspberry Pi"],
+      "link": { "label": "Démo vidéo", "url": "https://drive.google.com/file/d/1iYV8nCvmrNQpkN9YN2Ivhkud4mE9OKs3/view" }
+    },
+    {
+      "id": "PROJ-004",
+      "title": "Projets Personnels",
+      "partner": "Open Source",
+      "context": "En continu",
+      "year": "2024–",
+      "status": "ongoing",
+      "icon": "🧠",
+      "card_class": "pc-g",
+      "description": "Scripts d'automatisation Python, outils de validation embarquée, assistant Cluedo interactif en JavaScript.",
+      "highlights": [
+        "Scripts Python — automatisation &amp; diagnostic",
+        "Assistant Cluedo JS — logique métier client",
+        "Outils d'aide à la validation &amp; analyse"
+      ],
+      "techs": ["Python", "JavaScript"],
+      "link": { "label": "Voir sur Drive", "url": "https://drive.google.com/drive/folders/1wL_WRprnR27kxL3sJ6IGCh9vApJjLCaJ" }
+    }
+  ],
+
+  "skills": {
+    "languages": [
+      { "name": "Texte Structuré (ST) / Logigrammes", "level": 90, "bar_class": "sb-c" },
+      { "name": "Python — Scripts & Automatisation",   "level": 88, "bar_class": "sb-g" },
+      { "name": "C / C++",                             "level": 85, "bar_class": "sb-y" },
+      { "name": "Java / JUnit",                        "level": 75, "bar_class": "sb-p" },
+      { "name": "React / TypeScript",                  "level": 70, "bar_class": "sb-r" }
+    ],
+    "tools": [
+      "ControlBuild (Dassault)", "IBM ClearCase", "IBM DOORS",
+      "Git / GitHub / GitLab", "Jira / Redmine", "Squash TM",
+      "Robot Framework", "Pytest / JUnit", "Cucumber",
+      "Jenkins", "AWS Lambda/S3", "Elasticsearch",
+      "Linux embarqué", "Raspberry Pi", "SonarQube"
+    ],
+    "methods": [
+      "Cycle en V", "Agile SAFe", "EN 50128 / EN 50657",
+      "Ingénierie des exigences", "Tests unitaires · intégration · validation",
+      "Plans & cahiers de tests", "H0B0 électrique"
+    ],
+    "radar": [
+      { "axis": "C/C++",          "value": 0.85 },
+      { "axis": "Python",         "value": 0.88 },
+      { "axis": "Texte Struct.",  "value": 0.90 },
+      { "axis": "Tests & QA",     "value": 0.82 },
+      { "axis": "EN 50128",       "value": 0.85 },
+      { "axis": "Java/React",     "value": 0.73 },
+      { "axis": "Git & CI/CD",    "value": 0.78 }
+    ]
+  },
+
+  "education": [
+    {
+      "degree": "Diplôme d'Ingénieur",
+      "field": "Génie informatique, logiciels & données · Option Systèmes Embarqués",
+      "school": "ESEO · Angers",
+      "year": "2018 – 2024"
+    },
+    {
+      "degree": "Baccalauréat Scientifique",
+      "field": "Physique-Chimie · Section Européenne · Mention Assez Bien",
+      "school": "Blanche de Castille · Nantes",
+      "year": "2015 – 2018"
+    }
+  ],
+
+  "certifications": [
+    { "name": "TOEIC",              "detail": "790 / 990 · B2", "icon": "🗣️" },
+    { "name": "Certificat Voltaire","detail": "843 / 1000",     "icon": "✍️" }
+  ],
+
+  "interests": ["🏀 Basketball", "♟️ Jeu d'échecs", "🚁 Drone"]
+}
